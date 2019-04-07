@@ -1,0 +1,86 @@
+baseURL = "http://topshamcharterday.co.uk"
+languageCode = "en-gb"
+DefaultContentLanguage = "en"
+title = "Topsham Charter Day"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 2
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+#description = ""
+author = "Town Charter Day Group"
+# Google Analitycs
+googleAnalitycsID = "UA-136752778-1"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/header.png"
+ #   icon = "images/biglogo.png"
+    heading = "Topsham Charter Day"
+    content= "Celebrating Topsham Memories"
+    btn = false
+    btnText=""
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = false
+    title = "Previous Charter Daus"
+    btnURL = "#"
+    btnText = "Start a project with us"
+
+    # counter
+    [params.counter]
+    enable = false
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "Topsham Charter Group"
+        copyrightURL = "http://www.topshamcharterday.co.uk"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/TopshamCharterDay"
+		
+		[[params.footer.socialIcon]]
+        icon = "tf-ion-email"
+        url = "http://topshamcharterday.co.uk/contact-us/"

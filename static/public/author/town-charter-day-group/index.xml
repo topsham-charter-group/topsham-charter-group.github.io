@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Town Charter Day Group on Topsham Charter Day</title>
+    <link>http://topshamcharterday.co.uk/author/town-charter-day-group/</link>
+    <description>Recent content in Town Charter Day Group on Topsham Charter Day</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 27 Aug 2016 14:39:16 +0600</lastBuildDate>
+    
+	<atom:link href="http://topshamcharterday.co.uk/author/town-charter-day-group/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Topsham Charter Day 2016</title>
+      <link>http://topshamcharterday.co.uk/blog/topsham-charter-day-2016/</link>
+      <pubDate>Sat, 27 Aug 2016 14:39:16 +0600</pubDate>
+      
+      <guid>http://topshamcharterday.co.uk/blog/topsham-charter-day-2016/</guid>
+      <description>In 2016 Topsham returned to Medieval times as the Charter was carried through the town.</description>
+    </item>
+    
+  </channel>
+</rss>

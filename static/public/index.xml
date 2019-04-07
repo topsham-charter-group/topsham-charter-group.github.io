@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topsham Charter Day</title>
+    <link>http://topshamcharterday.co.uk/</link>
+    <description>Recent content on Topsham Charter Day</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 23 Mar 2019 16:04:59 +0600</lastBuildDate>
+    
+	<atom:link href="http://topshamcharterday.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whats Happening in 2019?</title>
+      <link>http://topshamcharterday.co.uk/blog/whats-happening-in-2019/</link>
+      <pubDate>Sat, 23 Mar 2019 16:04:59 +0600</pubDate>
+      
+      <guid>http://topshamcharterday.co.uk/blog/whats-happening-in-2019/</guid>
+      <description>On the 24th August we will be celebrating changes in Topsham between World War One and World War Two, but our emphasis on Charter Day will be letting our hair down in the 1920s!</description>
+    </item>
+    
+    <item>
+      <title>Topsham Charter Day 2018</title>
+      <link>http://topshamcharterday.co.uk/blog/topsham-charter-day-2018/</link>
+      <pubDate>Sat, 25 Aug 2018 14:39:16 +0600</pubDate>
+      
+      <guid>http://topshamcharterday.co.uk/blog/topsham-charter-day-2018/</guid>
+      <description>On the 25th August 2018, on charter day we remembered the 100 year anniversary of the ending of World War One.</description>
+    </item>
+    
+    <item>
+      <title>Topsham Charter Day 2017</title>
+      <link>http://topshamcharterday.co.uk/blog/topsham-charter-day-2017/</link>
+      <pubDate>Sat, 26 Aug 2017 14:39:16 +0600</pubDate>
+      
+      <guid>http://topshamcharterday.co.uk/blog/topsham-charter-day-2017/</guid>
+      <description>On the 26th August 2017 the Charter Day Theme was Boats, Pilgrims and Pirates.</description>
+    </item>
+    
+    <item>
+      <title>Topsham Charter Day 2016</title>
+      <link>http://topshamcharterday.co.uk/blog/topsham-charter-day-2016/</link>
+      <pubDate>Sat, 27 Aug 2016 14:39:16 +0600</pubDate>
+      
+      <guid>http://topshamcharterday.co.uk/blog/topsham-charter-day-2016/</guid>
+      <description>In 2016 Topsham returned to Medieval times as the Charter was carried through the town.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://topshamcharterday.co.uk/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://topshamcharterday.co.uk/contact-us/</guid>
+      <description>The Charter Day is Organised by: Valerie Holland, &amp;lsquo;Liz Hodges, Lesley Pattison, Jose Northey, Kathy Parsons, Maggie Butt, Gillian Dale and John Bradley.</description>
+    </item>
+    
+  </channel>
+</rss>
