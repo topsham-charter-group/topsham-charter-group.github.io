@@ -1,9 +1,8 @@
 backend:
-  name: github # Or gitlab
-  repo: topsham-charter-group/topsham-charter-group.github.io # Your username and repository
-  branch: master # Branch to use
-  base_url: https://us-central1-topsham-charter-day-cms.cloudfunctions.net/oauth/ # The base URL for your Firebase Function
-  auth_endpoint: /oauth/auth # The path to the OAuth endpoint of the function
+  name: git-gateway
+  accept_roles: #optional - accepts all users if left out
+    - admin
+  auth_endpoint: /oauth/auth/ # The path to the OAuth endpoint of the function
 # This line should *not* be indented
 publish_mode: editorial_workflow
 # These lines should *not* be indented
