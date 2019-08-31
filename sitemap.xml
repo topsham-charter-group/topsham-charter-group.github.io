@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://topshamcharterday.co.uk/blog/cheese-and-wine/</loc>
+    <lastmod>2019-08-11T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://topshamcharterday.co.uk/blog/the-great-gatsby/</loc>
+    <lastmod>2019-08-11T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://topshamcharterday.co.uk/blog/not-long-now/</loc>
     <lastmod>2019-08-06T23:00:00+00:00</lastmod>
   </url>
@@ -34,7 +44,7 @@
   
   <url>
     <loc>http://topshamcharterday.co.uk/blog/</loc>
-    <lastmod>2019-08-06T23:00:00+00:00</lastmod>
+    <lastmod>2019-08-11T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,12 +63,8 @@
   </url>
   
   <url>
-    <loc>http://topshamcharterday.co.uk/blog/the-great-gatsby/</loc>
-  </url>
-  
-  <url>
     <loc>http://topshamcharterday.co.uk/</loc>
-    <lastmod>2019-08-06T23:00:00+00:00</lastmod>
+    <lastmod>2019-08-11T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

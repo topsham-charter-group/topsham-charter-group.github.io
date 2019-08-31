@@ -6,10 +6,28 @@
     <description>Recent content on Topsham Charter Day</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 06 Aug 2019 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://topshamcharterday.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cheese and Wine</title>
+      <link>http://topshamcharterday.co.uk/blog/cheese-and-wine/</link>
+      <pubDate>Sun, 11 Aug 2019 23:00:00 +0000</pubDate>
+      
+      <guid>http://topshamcharterday.co.uk/blog/cheese-and-wine/</guid>
+      <description>Come and enjoy a range of wines and local cheeses at The Globe, Topsham.</description>
+    </item>
+    
+    <item>
+      <title>Come and watch The Great Gatsby!</title>
+      <link>http://topshamcharterday.co.uk/blog/the-great-gatsby/</link>
+      <pubDate>Sun, 11 Aug 2019 23:00:00 +0000</pubDate>
+      
+      <guid>http://topshamcharterday.co.uk/blog/the-great-gatsby/</guid>
+      <description>Come and enjoy watching the film The Great Gatsby at Matthews Hall at 7.</description>
+    </item>
     
     <item>
       <title>Not long now!</title>
@@ -63,15 +81,6 @@
       
       <guid>http://topshamcharterday.co.uk/contact-us/</guid>
       <description>The Charter Day is Organised by: Valerie Holland, &amp;lsquo;Liz Hodges, Lesley Pattison, Jose Northey, Kathy Parsons, Maggie Butt, Gillian Dale and John Bradley.</description>
-    </item>
-    
-    <item>
-      <title>The Great Gatsby</title>
-      <link>http://topshamcharterday.co.uk/blog/the-great-gatsby/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://topshamcharterday.co.uk/blog/the-great-gatsby/</guid>
-      <description>Come and enjoy watching the film The Great Gatsby at Matthews Hall at 7.</description>
     </item>
     
   </channel>
